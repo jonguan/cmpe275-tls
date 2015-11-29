@@ -3,6 +3,10 @@ TLS implementation
 
 ## Basic setup
 Make sure node.js version 4.2.2 is installed.  
+```
+cd server
+```
+
 Then run npm install  
 ```
 npm install tls
